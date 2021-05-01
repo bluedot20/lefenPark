@@ -4,7 +4,10 @@
 # 3. Writing a message 
 # 4. Send it 
 
-"Hello"
+"GoodBye"
+
+# When doing an update
+# steps 2,3,4 (without url)
 
 
 
